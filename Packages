@@ -1,0 +1,128 @@
+Package: ros-humble-sugar
+Version: 0.2.3-0jammy
+Architecture: arm64
+Maintainer: Automatika Robotics <contact@automatikarobotics.com>
+Installed-Size: 1636
+Depends: libc6 (>= 2.17), libgcc-s1 (>= 3.3.1), libpython3.10 (>= 3.10.0), libstdc++6 (>= 5.2), ros-humble-fastcdr, python3-jinja2, python3-msgpack, python3-numpy, python3-opencv, python3-pil, ros-humble-builtin-interfaces, ros-humble-geometry-msgs, ros-humble-lifecycle-msgs, ros-humble-nav-msgs, ros-humble-rclcpp, ros-humble-rclpy, ros-humble-rosidl-default-runtime, ros-humble-sensor-msgs, ros-humble-std-msgs, ros-humble-tf2-ros
+Filename: ./ros-humble-sugar_0.2.3-0jammy_arm64.deb
+Size: 153276
+MD5sum: 210991faa2313502d79d84e8af0c531e
+SHA1: ed77ad167774a3254afe20ecdf6a1337b11308b7
+SHA256: 1799c40efc5a6c550f6210542d74c512404505ebbc1d471902c4cee0fa9ed8f0
+Section: misc
+Priority: optional
+Homepage: https://github.com/automatika/ros-sugar
+Description: Syntactic sugar for ROS2 nodes creation and management
+
+Package: ros-humble-sugar
+Version: 0.2.3-0jammy
+Architecture: amd64
+Maintainer: Automatika Robotics <contact@automatikarobotics.com>
+Installed-Size: 1705
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.3.1), libpython3.10 (>= 3.10.0), libstdc++6 (>= 5.2), ros-humble-fastcdr, python3-jinja2, python3-msgpack, python3-numpy, python3-opencv, python3-pil, ros-humble-builtin-interfaces, ros-humble-geometry-msgs, ros-humble-lifecycle-msgs, ros-humble-nav-msgs, ros-humble-rclcpp, ros-humble-rclpy, ros-humble-rosidl-default-runtime, ros-humble-sensor-msgs, ros-humble-std-msgs, ros-humble-tf2-ros
+Filename: ./ros-humble-sugar_0.2.3-0jammy_amd64.deb
+Size: 154340
+MD5sum: 25e81ccdcb0841b2ed8f2c1165d55f98
+SHA1: 2e68e3447409f19be3c18a8d75ba6a1c89cde423
+SHA256: 546275de06e6e0feec2ed2d0086d63aca973ae629ff0fe6bff165db14c0edc09
+Section: misc
+Priority: optional
+Homepage: https://github.com/automatika/ros-sugar
+Description: Syntactic sugar for ROS2 nodes creation and management
+
+Package: ros-iron-sugar
+Version: 0.2.3-0jammy
+Architecture: arm64
+Maintainer: Automatika Robotics <contact@automatikarobotics.com>
+Installed-Size: 2408
+Depends: libc6 (>= 2.17), libgcc-s1 (>= 3.3.1), libpython3.10 (>= 3.10.0), libstdc++6 (>= 11), ros-iron-fastcdr, python3-jinja2, python3-msgpack, python3-numpy, python3-opencv, python3-pil, ros-iron-builtin-interfaces, ros-iron-geometry-msgs, ros-iron-lifecycle-msgs, ros-iron-nav-msgs, ros-iron-rclcpp, ros-iron-rclpy, ros-iron-rosidl-default-runtime, ros-iron-sensor-msgs, ros-iron-std-msgs, ros-iron-tf2-ros
+Filename: ./ros-iron-sugar_0.2.3-0jammy_arm64.deb
+Size: 217176
+MD5sum: dd7998a56353378d37e5100a3b04f5e9
+SHA1: 5f9b0ee3ae6d46b83118a392f3f6b8170595fccd
+SHA256: 7518d5e067245b86302e5ab090b920053634e123140652ceb5806c741cd2240b
+Section: misc
+Priority: optional
+Homepage: https://github.com/automatika/ros-sugar
+Description: Syntactic sugar for ROS2 nodes creation and management
+
+Package: ros-iron-sugar
+Version: 0.2.3-0jammy
+Architecture: amd64
+Maintainer: Automatika Robotics <contact@automatikarobotics.com>
+Installed-Size: 2438
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.3.1), libpython3.10 (>= 3.10.0), libstdc++6 (>= 11), ros-iron-fastcdr, python3-jinja2, python3-msgpack, python3-numpy, python3-opencv, python3-pil, ros-iron-builtin-interfaces, ros-iron-geometry-msgs, ros-iron-lifecycle-msgs, ros-iron-nav-msgs, ros-iron-rclcpp, ros-iron-rclpy, ros-iron-rosidl-default-runtime, ros-iron-sensor-msgs, ros-iron-std-msgs, ros-iron-tf2-ros
+Filename: ./ros-iron-sugar_0.2.3-0jammy_amd64.deb
+Size: 217202
+MD5sum: 83b868fa95b5ff33b77418d9e24f2038
+SHA1: d48730ee2b19c1c6eb4f3b7b3f8f4f65ae97102e
+SHA256: 3b773366cb2b1336341f970ad28ec34fc1cff0d1ec02b75e50b103d5a53de4a7
+Section: misc
+Priority: optional
+Homepage: https://github.com/automatika/ros-sugar
+Description: Syntactic sugar for ROS2 nodes creation and management
+
+Package: ros-jazzy-sugar
+Version: 0.2.3-0noble
+Architecture: amd64
+Maintainer: Automatika Robotics <contact@automatikarobotics.com>
+Installed-Size: 2490
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.3.1), libpython3.12t64 (>= 3.12.1), libstdc++6 (>= 11), ros-jazzy-fastcdr, python3-jinja2, python3-msgpack, python3-numpy, python3-opencv, python3-pil, ros-jazzy-builtin-interfaces, ros-jazzy-geometry-msgs, ros-jazzy-lifecycle-msgs, ros-jazzy-nav-msgs, ros-jazzy-rclcpp, ros-jazzy-rclpy, ros-jazzy-rosidl-default-runtime, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-tf2-ros
+Filename: ./ros-jazzy-sugar_0.2.3-0noble_amd64.deb
+Size: 225306
+MD5sum: e42d8565927d79415da9087556a3f0cc
+SHA1: 0fa96e2857a3778be302d999eb865517093786de
+SHA256: 5bc2228f491676559a7cba1753643ab8b5da8b0365da3c5f8f2cc85cca946b48
+Section: misc
+Priority: optional
+Homepage: https://github.com/automatika/ros-sugar
+Description: Syntactic sugar for ROS2 nodes creation and management
+
+Package: ros-jazzy-sugar
+Version: 0.2.3-0noble
+Architecture: arm64
+Maintainer: Automatika Robotics <contact@automatikarobotics.com>
+Installed-Size: 2793
+Depends: libc6 (>= 2.17), libgcc-s1 (>= 3.3.1), libpython3.12t64 (>= 3.12.1), libstdc++6 (>= 11), ros-jazzy-fastcdr, python3-jinja2, python3-msgpack, python3-numpy, python3-opencv, python3-pil, ros-jazzy-builtin-interfaces, ros-jazzy-geometry-msgs, ros-jazzy-lifecycle-msgs, ros-jazzy-nav-msgs, ros-jazzy-rclcpp, ros-jazzy-rclpy, ros-jazzy-rosidl-default-runtime, ros-jazzy-sensor-msgs, ros-jazzy-std-msgs, ros-jazzy-tf2-ros
+Filename: ./ros-jazzy-sugar_0.2.3-0noble_arm64.deb
+Size: 223052
+MD5sum: f7d396559744d3b8fbd69835f14eb081
+SHA1: b821fa63e97cd237ac36242ee0da2075be61815c
+SHA256: 527d6ec53d1c858b3b161b58fb17c336ac00b33530ae07b3e7c4feb9e3b11ed1
+Section: misc
+Priority: optional
+Homepage: https://github.com/automatika/ros-sugar
+Description: Syntactic sugar for ROS2 nodes creation and management
+
+Package: ros-rolling-sugar
+Version: 0.2.3-0noble
+Architecture: arm64
+Maintainer: Automatika Robotics <contact@automatikarobotics.com>
+Installed-Size: 2793
+Depends: libc6 (>= 2.17), libgcc-s1 (>= 3.3.1), libpython3.12t64 (>= 3.12.1), libstdc++6 (>= 11), ros-rolling-fastcdr, python3-jinja2, python3-msgpack, python3-numpy, python3-opencv, python3-pil, ros-rolling-builtin-interfaces, ros-rolling-geometry-msgs, ros-rolling-lifecycle-msgs, ros-rolling-nav-msgs, ros-rolling-rclcpp, ros-rolling-rclpy, ros-rolling-rosidl-default-runtime, ros-rolling-sensor-msgs, ros-rolling-std-msgs, ros-rolling-tf2-ros
+Filename: ./ros-rolling-sugar_0.2.3-0noble_arm64.deb
+Size: 223740
+MD5sum: f26baefb900db50d1e825796782c1deb
+SHA1: 8ed40ce3267639760e2019b5edb006a3ea3e6503
+SHA256: 8c4aab473c53c9c170d109bd2d72b248ba607ccd316090c2735e422ea64f24e5
+Section: misc
+Priority: optional
+Homepage: https://github.com/automatika/ros-sugar
+Description: Syntactic sugar for ROS2 nodes creation and management
+
+Package: ros-rolling-sugar
+Version: 0.2.3-0noble
+Architecture: amd64
+Maintainer: Automatika Robotics <contact@automatikarobotics.com>
+Installed-Size: 2490
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.3.1), libpython3.12t64 (>= 3.12.1), libstdc++6 (>= 11), ros-rolling-fastcdr, python3-jinja2, python3-msgpack, python3-numpy, python3-opencv, python3-pil, ros-rolling-builtin-interfaces, ros-rolling-geometry-msgs, ros-rolling-lifecycle-msgs, ros-rolling-nav-msgs, ros-rolling-rclcpp, ros-rolling-rclpy, ros-rolling-rosidl-default-runtime, ros-rolling-sensor-msgs, ros-rolling-std-msgs, ros-rolling-tf2-ros
+Filename: ./ros-rolling-sugar_0.2.3-0noble_amd64.deb
+Size: 224826
+MD5sum: 112a52e1cbbf1b60f0f1fab67c540479
+SHA1: 885a4859afddba3e663e78b0f3cc655762b96156
+SHA256: 138322f1a59bde39f139d92e6b78325f376c73ef413bf1bc5dba409cc7e5b066
+Section: misc
+Priority: optional
+Homepage: https://github.com/automatika/ros-sugar
+Description: Syntactic sugar for ROS2 nodes creation and management
+
